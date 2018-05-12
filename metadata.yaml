@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9059
     wikipedia: http://it.wikipedia.org/wiki/Alfredo_Oriani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46211#Ombre-di-occaso
 gutenberg_bookshelf: IT Narrativa varia
 gutenberg_issued: '2014-07-07'
 gutenberg_type: Text
